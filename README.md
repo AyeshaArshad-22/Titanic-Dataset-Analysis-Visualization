@@ -7,7 +7,7 @@ The project covers **data cleaning, exploration, and visualization** to uncover 
 
 ## 📂 Project Structure
 - **Task1.ipynb** → Main Jupyter Notebook containing code, explanations, and visualizations  
-- **titanic_dataset.csv** → Titanic dataset (to be placed in the same folder)  
+- **titanic_dataset.csv** → Titanic dataset 
 
 ---
 
